@@ -1,0 +1,19 @@
+{
+  "name": "karmaANDjasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idan Mor",
+  "homepage": "https://idanmorblog.wordpress.com/",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-core": "^2.4.1",
+    "selenium-webdriver": "^2.53.3"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
