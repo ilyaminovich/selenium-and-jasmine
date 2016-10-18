@@ -5,4 +5,4 @@ Selenium &amp; Jasmine - Install and Run
 2. ./node_modules/jasmine/bin/jasmine.js
 
 The full blog:
-https://idanmorblog.wordpress.com/
+https://sidanmor.com/
