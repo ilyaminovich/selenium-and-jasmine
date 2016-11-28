@@ -1,4 +1,4 @@
-# seleniumANDjasmine
+# selenium-and-jasmine
 Selenium &amp; Jasmine - Install and Run
 
 1. npm install
